@@ -40,3 +40,11 @@
 - Details:
     - xxx
     - xxx
+
+## How to Contribute
+
+1. Create your GitHub repository, preferably within this organization
+2. Upload your source files, e.g. tex files, compiled pdf, ...
+3. Fork your team repo
+4. Update README files in the forked repo 
+5. Create Pull Request of the team repo
