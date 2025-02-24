@@ -4,10 +4,7 @@
 
 | Paper | Publisher | Reader | Date | Repo | Notes |
 | ----- | --------- | ------ | ---- | ---- | ----- |
-| [T2I Survey](https://arxiv.org/abs/2403.04279) | arXiv | YourName | Mar.DD.2025 | [YourRepoName](https://link.to.your.repo) | if any |
-| [Movie-Dreamer](https://arxiv.org/abs/2407.16655) | arXiv | YourName | Mar.DD.2025 | [YourRepoName](https://link.to.your.repo) | if any |
-| [Video-Infinity](https://arxiv.org/abs/2406.16260) | arXiv | YourName | Apr.DD.2025 | [YourRepoName](https://link.to.your.repo) | if any |
-| [Transfusion](https://arxiv.org/abs/2408.11039) | arXiv | YourName | Apr.DD.2025 | [YourRepoName](https://link.to.your.repo) | if any |
+| [Paper Name](https://link.to.paper) | arXiv | Your Name | MM.DD.YYYY | [YourRepoName](https://link.to.your.repo) | if any |
 | ... | ... | ... | ... | ... | ... |
 
 ## Teams
