@@ -2,10 +2,17 @@
 
 ## Coming up ...
 
-| Paper | Publisher | Reader | Date | Repo | Notes |
-| ----- | --------- | ------ | ---- | ---- | ----- |
-| [Paper Name](https://link.to.paper) | arXiv | Your Name | MM.DD.YYYY | [YourRepoName](https://link.to.your.repo) | if any |
-| ... | ... | ... | ... | ... | ... |
+| Paper | Publisher | Reader | Date | Repo | Notes | Catagory |
+| ----- | --------- | ------ | ---- | ---- | ----- | ---- |
+| [CogVideoX](https://arxiv.org/abs/2408.06072) | arXiv | Mingzhe Huang | Mar.04.2025 | [YourRepo](https://link.to.your.repo) | | Text2Video |
+| [DIFFMD](https://arxiv.org/abs/2204.08672) | AAAI | Pengcheng Song | Mar.11.2025 | [YourRepo](https://link.to.your.repo) | | Scientific Computing |
+| [ODE-DPS](https://link.springer.com/article/10.1007/s10915-025-02790-8) | JSC | Ruizhe Zhang | Mar.11.2025 | [YourRepo](https://link.to.your.repo) | | Scientific Computing |
+| [Two for One](https://arxiv.org/abs/2302.00600) | arxiv | Pengcheng Song | Mar.18.2025 | [YourRepo](https://link.to.your.repo)| | Scientific Computing |
+| [MDDM](https://arxiv.org/abs/2501.17319) | arxiv | Cheng Yuan | Mar.18.2025 | [YourRepo](https://link.to.your.repo)| | Scientific Computing |
+| [T2I Survey](https://arxiv.org/abs/2403.04279) | arXiv | Ruoxuan Li | Mar.25.2025 | [YourRepo](https://link.to.your.repo) | | Text2Image |
+| [T2V Survey](https://arxiv.org/abs/2403.05131) | arXiv | Zhizhong Kong | Mar.25.2025 | [YourRepo](https://link.to.your.repo) | | Text2Video |
+| [Alignment w/o Over-Optimization](https://arxiv.org/abs/2501.05803v1) | arXiv | Junwei Liu | Apr.01.2025 | [YourRepo](https://link.to.your.repo) | | Inverse Problem |
+| ... | ... | ... | ... | ... | ... | ... |
 
 ## Teams
 
