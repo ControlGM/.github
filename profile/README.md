@@ -12,6 +12,10 @@
 | [T2I Survey](https://arxiv.org/abs/2403.04279) | arXiv | Ruoxuan Li | Mar.25.2025 | [YourRepo](https://link.to.your.repo) | Text2Image |
 | [T2V Survey](https://arxiv.org/abs/2403.05131) | arXiv | Zhizhong Kong | Mar.25.2025 | [YourRepo](https://link.to.your.repo) | Text2Video |
 | [Alignment w/o Over-Optimization](https://arxiv.org/abs/2501.05803v1) | arXiv | Junwei Liu | Apr.01.2025 | [YourRepo](https://link.to.your.repo) | Inverse Problem |
+| | | Yi Xu | Apr.01.2025 | [YourRepo](https://link.to.your.repo) | Inverse Problem |
+| | | Ruizhe Zhang | Apr.08.2025 | [YourRepo](https://link.to.your.repo) | Inverse Problem |
+| | | Mingzhe Huang | Apr.08.2025 | [YourRepo](https://link.to.your.repo) | VideoGen |
+| | | Junjie Shi | Apr.15.2025 | [YourRepo](https://link.to.your.repo) | Inverse Problem |
 | ... | ... | ... | ... | ... | ... |
 
 ## Teams
